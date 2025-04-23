@@ -1,9 +1,6 @@
-# Code Deliverables
+# ZeroEdit SOAP Version
 
-This repo has all the backend code deliverables
-Each Service has a ReadME providing instructions to run
-
-The Deliverables are also deployed  using AWS EC2 
+The code for SOAP Version of the software architecture project
 
 The below document has information on the deployed services : 
 
