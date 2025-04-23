@@ -1,0 +1,16 @@
+MainScreen:
+    - Logic Add:
+        - Login:
+            - Login Token Store
+        - Register:
+            - Success
+            - Validate
+            - Failure
+        - Authenticate:
+            - Failure redirect
+        - Main Logic :
+            - Link Generation
+            - Link negotiation
+            - File Sharing
+            - Permission Management
+            - Code Execution
